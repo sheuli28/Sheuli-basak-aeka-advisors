@@ -1,4 +1,4 @@
-Cricket World Cup Analytics Dashboard
+🏏Cricket World Cup Analytics Dashboard
 
 Task 3 – Business Intelligence Project
 
